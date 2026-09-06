@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>发声APP衍生模板</h1>
+    <h1>忆岚_17发声APP</h1>
     <img width=100 src="app.ico">
    
 一款点击后只会播放声音的原生Android解压小软件
